@@ -14,7 +14,7 @@
 
 // student- update variables below this line
 
-var xeMail = "YourEMail@winona.edu";
+var xeMail = "YourStarID@go.minnstate.edu";
 
 var xFirstName = "YourFirstName";
 

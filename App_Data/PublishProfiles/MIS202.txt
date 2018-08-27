@@ -13,8 +13,8 @@ In order to learn more about this please visit https://go.microsoft.com/fwlink/?
     <LaunchSiteAfterPublish>True</LaunchSiteAfterPublish>
     <ExcludeApp_Data>True</ExcludeApp_Data>
     <!--  network path to webserver with current YearTerm, CourseID and WSU network username,
-    Professor will use as his demo site for course -->
-    <publishUrl>\\winona.edu\dfs\Students\ClassStorage\20193000032\UserName\</publishUrl>
+    replace 'Username' with your WSU network name, such as jrstudent16  -->
+    <publishUrl>\\winona.edu\dfs\Students\ClassStorage\20193000032\Username\</publishUrl>
     <!-- if true, removes files from web server before publishing, often resolves publication issues,
     be mindful of repo location of files like web.config, constants.js; PgP 8/20/2018 -->
     <DeleteExistingFiles>False</DeleteExistingFiles>

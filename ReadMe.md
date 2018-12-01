@@ -1,6 +1,6 @@
 PgP 12/1/2018
 * have been correcting typos found in assignments, also clarifying instructions
-* beginning to get repo ready for spring 2019 classes.
+* getting repo ready for spring 2019 classes.
 
 
 PgP 8/20/2018

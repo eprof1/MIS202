@@ -16,11 +16,11 @@ In order to learn more about this please visit https://go.microsoft.com/fwlink/?
     replace 'Username' with your WSU network name, such as jrstudent16; and uncomment by removing < >  -->
 
 	<!--
-    <publishUrl>\\winona.edu\dfs\Students\ClassStorage\20195000733\Username\</publishUrl>
+    <publishUrl>\\winona.edu\dfs\Students\ClassStorage\20195000721\Username\</publishUrl>
 	-->
 
     <!--
-    <publishUrl>\\winona.edu\dfs\Students\ClassStorage\20195000032\Username\</publishUrl>
+    <publishUrl>\\winona.edu\dfs\Students\ClassStorage\20195000733\Username\</publishUrl>
 	-->
 
 

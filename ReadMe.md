@@ -1,6 +1,10 @@
+PgP 12/25/2018
+* all assignments updated based on fall 2018 feeback and lessons learned
+* ready to send to eprof1, and subset to eProfessor for spring 2019
+
 PgP 12/1/2018
 * have been correcting typos found in assignments, also clarifying instructions
-* getting repo ready for spring 2019 classes.
+* getting repo ready for spring 2019 classes
 
 
 PgP 8/20/2018

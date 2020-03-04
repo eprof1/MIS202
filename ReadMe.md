@@ -1,3 +1,8 @@
+PgP 3/4/2020
+* summer 2020 online class
+* updated home page, full scripted to use constants files
+* Attendance function built into home page
+
 PgP 12/25/2018
 * all assignments updated based on fall 2018 feeback and lessons learned
 * ready to send to eprof1, and subset to eProfessor for spring 2019
